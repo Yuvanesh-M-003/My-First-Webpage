@@ -24,7 +24,7 @@ public class CountdownController {
 
         CountdownMessage saved = service.createCountdown(message);
 
-        String link = "http://localhost:8080/countdown/" + saved.getId();
+        String link = "/countdown/" + saved.getId();
 
         Map<String, String> response = new HashMap<>();
         response.put("id", saved.getId().toString());
