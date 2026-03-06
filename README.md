@@ -16,7 +16,7 @@ Backend API handles message storage
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js, Express.js
+Backend: Intel IJ - Spring Boot(Java)
 
 Database: MongoDB
 
