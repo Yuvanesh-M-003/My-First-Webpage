@@ -18,7 +18,7 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Intel IJ - Spring Boot(Java)
 
-Database: MongoDB
+Database: Postgres
 
 Deployment: Render
 
